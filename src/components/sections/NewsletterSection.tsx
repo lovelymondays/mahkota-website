@@ -22,7 +22,7 @@ export default function NewsletterSection() {
             <Mail className="text-primary" size={40} />
           </div>
           <h2 className="text-4xl md:text-5xl font-serif font-bold text-accent mb-4">
-            Stay Updated
+            Stay Updated Yes
           </h2>
           <p className="text-muted-foreground mb-8">
             Subscribe to our newsletter to receive updates about seasonal menus,
